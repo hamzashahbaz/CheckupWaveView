@@ -1,7 +1,8 @@
 Pod::Spec.new do |s|
   s.name     = 'CheckupWaveView'
-  s.version  = '1.0.2'
-  s.platform = :ios, "7.0"
+  s.version  = '1.0.3'
+  s.platform = :ios
+  s.ios.deployment_target = '7.0'
   s.summary  = 'UIView subclass that reproduces the waveform effect seen in Siri on iOS 7'
   s.homepage = 'https://github.com/hamzashahbaz/CheckupWaveView.git'
   s.author   = { 'Hamza Shahbaz' => 'hi@hamzashahbaz.dev' }

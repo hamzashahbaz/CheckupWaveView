@@ -1,3 +1,11 @@
+//
+//  CheckupWaveView.h
+//  CheckupWaveView
+//
+//  Created by Hamza Shahbaz on 13/07/2020.
+//  Copyright (c) 2020 Hamza Shahbaz. All rights reserved.
+//
+
 @import UIKit;
 @import AVFoundation;
 
