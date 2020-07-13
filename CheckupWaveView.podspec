@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.author   = { 'Hamza Shahbaz' => 'hi@hamzashahbaz.dev' }
   s.source   = { :git => 'https://github.com/hamzashahbaz/CheckupWaveView.git', :tag => "v#{s.version}" }
   s.license      = { :type => 'MIT License', :file => 'LICENSE' }
-  s.source_files = 'src/*'
+  s.source_files = 'CheckupWaveView/*'
   s.requires_arc = true
   s.frameworks = 'UIKit', 'QuartzCore', 'CoreGraphics', 'Foundation', 'AVFoundation'
 end
